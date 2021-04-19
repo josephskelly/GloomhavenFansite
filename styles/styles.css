@@ -1,0 +1,20 @@
+@font-face {
+    font-family: gloomhaven;
+    src: url("fonts/gloomhaven.otf") format("opentype");
+}
+html {
+}
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 16px;
+}
+h1, h2 {
+    font-family: gloomhaven, sans-serif;
+    text-outline: burlywood 5px;
+}
+img {
+    max-width: 95%;
+    display: block;
+    margin: 0 auto;
+}
